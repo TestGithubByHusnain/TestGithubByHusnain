@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TestGithubByHusnain
+- 👋 Hi, I’m @Husnain Ali
 - 👀 I’m interested in Website Development 
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on github
